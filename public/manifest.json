@@ -1,0 +1,21 @@
+{
+  "name": "Stratego App",
+  "short_name": "stratego",
+  "icons": [
+    {
+      "src": "/img/icons/icon2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icons/icon3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2E1206",
+  "theme_color": "#BF7E04"
+}
+
